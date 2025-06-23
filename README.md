@@ -7,12 +7,20 @@ Data scientist and economist with a background in consulting. I'm driven by curi
 - **Master's in Data Science for Decision Making** — Barcelona School of Economics (2024–2025)
 - **Bachelor of Economics** — Universitat Pompeu Fabra (2019–2023)
 
+### 💼 Professional Experience
+
+#### Data Science Intern @ Livo Health SL
+At Livo Health SL, I built end-to-end machine learning pipelines, analyzed enterprise data to uncover business patterns, and delivered actionable insights using Python and geospatial tools.
+
+#### SAP-FI Consultant @ Accenture
+As an SAP-FI Consultant at Accenture, I streamlined financial operations for clients by delivering end-to-end consulting and managing the full project lifecycle for FI-CO/MM modules.
+
 ### 🧞 Languages and Tools
 
 #### Data Science
 - Machine Learning, Causal inference, Econometrics and risk modeling. 
 
-**Programs and languages:**
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -20,7 +28,7 @@ Data scientist and economist with a background in consulting. I'm driven by curi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A4674?style=for-the-badge)
 
-**Some libraries:**
+**Libraries:**
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![polars](https://img.shields.io/badge/polars-FFD700?style=for-the-badge)
@@ -37,14 +45,6 @@ Data scientist and economist with a background in consulting. I'm driven by curi
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?style=for-the-badge)
 ![sf](https://img.shields.io/badge/sf-1A162D?style=for-the-badge)
-
-### 💼 Professional Experience
-
-#### Data Science Intern @ Livo Health SL
-At Livo Health SL, I built end-to-end machine learning pipelines, analyzed enterprise data to uncover business patterns, and delivered actionable insights using Python and geospatial tools.
-
-#### SAP-FI Consultant @ Accenture
-As an SAP-FI Consultant at Accenture, I streamlined financial operations for clients by delivering end-to-end consulting and managing the full project lifecycle for FI-CO/MM modules.
 
 ### 📫 How to Reach Me
 - **Email:** mariasimakovam@gmail.com
