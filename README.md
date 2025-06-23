@@ -18,7 +18,7 @@ As an SAP-FI Consultant at Accenture, I streamlined financial operations for cli
 ### 🧞 Languages and Tools
 
 #### Data Science
-- Machine Learning, Causal inference, Econometrics and risk modeling. 
+- Machine Learning, Causal inference, Econometrics and Risk Modeling. 
 
 **Languages:**
 
