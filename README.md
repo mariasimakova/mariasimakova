@@ -1,15 +1,15 @@
-# Hi there, I'm Maria! 👋
+## Hi there, I'm Maria! 🧚
 
-## About Me
+### About Me
 Data scientist and economist with a background in consulting. I'm driven by curiosity and enjoy finding new ways to connect data and economics.
 
-## 🎓 Education
+### 🎓 Education
 - **Master's in Data Science for Decision Making** — Barcelona School of Economics (2024–2025)
 - **Bachelor of Economics** — Universitat Pompeu Fabra (2019–2023)
 
-## 🛠️ Languages and Tools
+### 🧞 Languages and Tools
 
-### Data Science
+#### Data Science
 - Machine Learning, Causal inference, Econometrics and risk modeling. 
 
 **Programs and languages:**
@@ -38,25 +38,16 @@ Data scientist and economist with a background in consulting. I'm driven by curi
 ![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?style=for-the-badge)
 ![sf](https://img.shields.io/badge/sf-1A162D?style=for-the-badge)
 
-## 📊 GitHub Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariasimakova&show_icons=true&theme=radical)
+### 💼 Professional Experience
 
-## 💼 Professional Experience
-
-### Data Science Intern @ Livo Health SL
+#### Data Science Intern @ Livo Health SL
 At Livo Health SL, I built end-to-end machine learning pipelines, analyzed enterprise data to uncover business patterns, and delivered actionable insights using Python and geospatial tools.
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Accenture_Logo.svg" alt="Accenture Logo" width="20"/> SAP-FI Consultant @ Accenture
+#### SAP-FI Consultant @ Accenture
 As an SAP-FI Consultant at Accenture, I streamlined financial operations for clients by delivering end-to-end consulting and managing the full project lifecycle for FI-CO/MM modules.
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 - **Email:** mariasimakovam@gmail.com
 - **GitHub:** [github.com/mariasimakova](https://github.com/mariasimakova)
 - **LinkedIn:** [linkedin.com/in/mariasimakova](https://linkedin.com/in/mariasimakova)
 
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariasimakova&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
