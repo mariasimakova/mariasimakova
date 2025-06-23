@@ -9,10 +9,10 @@ Data scientist and economist with a background in consulting. I'm driven by curi
 
 ### 💼 Professional Experience
 
-#### Data Science Intern @ Livo Health SL
+- #### Data Science Intern @ Livo Health SL
 At Livo Health SL, I built end-to-end machine learning pipelines, analyzed enterprise data to uncover business patterns, and delivered actionable insights using Python and geospatial tools.
 
-#### SAP-FI Consultant @ Accenture
+- #### SAP-FI Consultant @ Accenture
 As an SAP-FI Consultant at Accenture, I streamlined financial operations for clients by delivering end-to-end consulting and managing the full project lifecycle for FI-CO/MM modules.
 
 ### 🧞 Languages and Tools
