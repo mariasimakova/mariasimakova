@@ -48,6 +48,5 @@ As an SAP-FI Consultant at Accenture, I streamlined financial operations for cli
 
 ### 📫 How to Reach Me
 - **Email:** mariasimakovam@gmail.com
-- **GitHub:** [github.com/mariasimakova](https://github.com/mariasimakova)
 - **LinkedIn:** [linkedin.com/in/mariasimakova](https://linkedin.com/in/mariasimakova)
 
