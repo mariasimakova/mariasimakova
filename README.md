@@ -1,7 +1,7 @@
 ## Hi there, I'm Maria! 🧚
 
 ### About Me
-Data scientist and economist with a background in consulting. I'm driven by curiosity and enjoy finding new ways to connect data and economics.
+Data scientist and economist currently spending my time at Deloitte. 
 
 ### 🎓 Education
 - **Master's in Data Science for Decision Making** — Barcelona School of Economics (2024–2025)
